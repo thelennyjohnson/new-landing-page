@@ -1,0 +1,94 @@
+.navbar button {
+  color: #9175DB;
+  border: 2px solid #9175DB;
+}
+
+img{
+  height: 80px;
+}
+
+.info-container{
+  text-align: center;
+}
+
+.text-section{
+  width: 400px;
+  margin: 100px auto;
+}
+
+.text-section a{
+  color: #9175DB;
+}
+
+.text-section h2{
+font-size: 16px;
+font-weight: 600;
+line-height: 2.5;
+}
+
+.text-section button{
+ 
+    background-color: #9175DB;
+    color: white;
+    font-size: 24px;
+    padding: 30px;
+    margin: 40px 0px;
+    border-radius: 10px;
+    border-style: none;
+  
+}
+
+
+@media only screen and (max-device-width: 768px){
+    
+  body{
+    overflow: hidden;
+
+  }
+
+  .navbar{
+   padding-bottom: 50px;
+  }
+
+  .text-section{
+
+    width: 300px;
+    padding: 0px;
+    text-align: center;
+  }
+
+  .text-container {
+    padding: 100px 0;
+    display: flex;
+  
+  }
+
+  .navbar{
+    width: 100%;
+  }
+  
+.navbar button{
+  padding: 10px;
+  margin-left: 20px;
+  font-size: 18px;
+  margin: 20px;
+}
+
+  .grid-container-footer{
+    display: grid;
+    grid-template-columns: 100%;
+    /* *height: 100vh;* */
+    }
+
+    footer p{
+      font-size: 14px;
+    }
+
+    .feedback-text{
+      padding: 0;
+    }
+
+    .grid-1-footer, .grid-2-footer {
+    margin: 0;
+    }
+}
