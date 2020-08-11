@@ -62,19 +62,16 @@ function App() {
           <p>Its called Beam.</p>
 
           <p>
-            It links your YouTube, Spotify, Reddit, and iTunes account and using
-            your interests on those platforms it matches you with someone nearby
-            you can chat with. Their will never be Ads on our platform.
-          </p>
+          It links your YouTube, Spotify, and Reddit accounts. Then using your interests on these platforms, it matches you with someone nearby you can chat with. There will never be Ads on our platform.</p>
 
           <p>
-            We believe its amazing and we want you to be a part of it and the
+            We believe its amazing and we want you to be a part of the
             future we’re building at Beam.
           </p>
 
           <h2>Long version</h2>
           <span>
-            <b>Social media sucks and we all know it.</b>
+            <p>Social media sucks and we all know it.</p>
           </span>
 
           <p>
@@ -92,13 +89,13 @@ function App() {
           </p>
 
           <p>
-            Instead we have a place where people post glamorous images of their
+            Instead, we have a place where people post glamorous images of their
             lives and make other people feel bad for having a normal day.
           </p>
 
           <p>
             And when those same people feel bad, they bottle it up
-            inside...because you can’t look bad for the grams can you?
+            inside...because you can’t look bad for the grams, can you?
           </p>
 
           <p>
@@ -117,13 +114,13 @@ function App() {
 
           <p>
             We’re doing this by eliminating everything that makes “Old Social”
-            bad. Starting with the word “media”. No ones themselves in front of
+            bad. Starting with the word “media”. No one's really themselves in front of
             the media.{" "}
           </p>
 
           <p>
             Ads also have to go. No one wakes up in the morning happy to see
-            another Ad. We believe their are better ways to make money on the
+            another Ad. We believe there are better ways to make money on the
             internet beyond the outdated Ad model.{" "}
           </p>
 
@@ -139,16 +136,14 @@ function App() {
           </p>
 
           <p>
-            As introverts ourselves, we know that there’s a lot of lonliness in
+            As introverts ourselves, we know that there’s a lot of loneliness in
             the World.
           </p>
 
           <p>We’ve all felt it.</p>
 
           <p>
-            Which is why we made it possible to also find other people near you
-            who share your interests on platforms like YouTube, Spotify, iTunes
-            and Reddit.
+          And that's why we made it possible to also find other people near you who share your interests on platforms like YouTube, Spotify, iTunes, and Reddit.
           </p>
 
           <p>
@@ -186,12 +181,12 @@ function App() {
           </p>
 
           <p>
-            We plan to do a lot more and everyday we’re working hard to make
+            We plan to do a lot more and every day we’re working hard to make
             beaming your friends so much better.{" "}
           </p>
 
           <p>
-            Finally, rather than being hosted on the the Play Store or App
+            Finally, rather than being hosted on the Play Store or App
             Store, Beam is a progressive web app.{" "}
           </p>
 
