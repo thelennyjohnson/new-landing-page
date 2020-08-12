@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
+import './PrivacyPolicy.css'
 
 export default function PrivacyPolicy() {
   return (
@@ -853,11 +854,98 @@ export default function PrivacyPolicy() {
             We have collected the following categories of personal information
             in the past twelve (12) months:
           </p>
-          <p>
-            <a href="https://www.notion.so/3b8733bd6db643f89918f6da25077461">
-              Untitled
-            </a>
-          </p>
+
+          <div>
+          <table
+            
+          >
+            <tbody>
+              <tr>
+                <td>Category</td>
+                <td>Examples</td>
+                <td>Collected</td>
+              </tr>
+              <tr>
+                <td>
+                  &nbsp;A. Identifiers
+                </td>
+                <td>
+                  &nbsp;Contact
+                  <br /> details such as real name, alias, unique personal
+                  identifier, online identifier, Internet <br />
+                  Protocol address, email address and account name
+                </td>
+                <td >&nbsp;4th August 2020</td>
+              </tr>
+              <tr>
+                <td>
+                  B. Protected classification characteristics under California
+                  or federal law
+                </td>
+                <td>
+                  &nbsp;Gender and date of birth
+                </td>
+                <td>
+                  &nbsp;&nbsp;4th August 2020
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  &nbsp;C. Internet or other similar network activity
+                </td>
+                <td>
+                  &nbsp;Browsing
+                  <br /> history, online behavior, interest data, and <br />
+                  interactions with our and other websites, applications and
+                  systems
+                </td>
+                <td>
+                  &nbsp;&nbsp;4th August 2020
+                </td>
+              </tr>
+              <tr >
+                <td >
+                  &nbsp;D. Geolocation data
+                </td>
+                <td>
+                  &nbsp;Device location
+                </td>
+                <td>
+                  &nbsp;&nbsp;4th August 2020
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  &nbsp;E. Audio, electronic, visual, thermal, olfactory, or
+                  similar information
+                </td>
+                <td>
+                  &nbsp;Images and audio, video or call recordings created in
+                  connection with our business activities
+                </td>
+                <td >
+                  &nbsp;&nbsp;4th August 2020
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  &nbsp;F. Inferences drawn from other personal information
+                </td>
+                <td>
+                  &nbsp;Inferences
+                  <br /> drawn from any of the collected personal information
+                  listed above to <br />
+                  create a profile or summary about, for example, an
+                  individual&rsquo;s <br />
+                  preferences and characteristics
+                </td>
+                <td >
+                  4th August 2020
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          </div>
           <p>
             We may also collect other personal information outside of these
             categories in instances where you interact with us in-person,
